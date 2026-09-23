@@ -9,4 +9,4 @@ A simple responsive navigation bar built with HTML and CSS.
 
 ## Live Demo
 
-[View the navbar](https://YOUR-USERNAME.github.io/navbar/)
+[View the navbar](https://YOUR-owlsight-offical.github.io/navbar/)
